@@ -62,7 +62,7 @@ This is a Flask web application that allows users to upload images, which are th
 - Users can upload images.
 - The uploaded images are resized for processing.
 - A machine learning model predicts the type of vegetable/fruit in the image.
-- The predicted vegetable name is displayed to the user.
+- The predicted vegetable name is displayed to the user .
 
 
 ## Requirements
